@@ -21,6 +21,7 @@ We work in **Polish, German and English** and support clients in Frankfurt am Ma
 | Service | What it includes |
 | --- | --- |
 | **Website development** | Individually coded company websites, landing pages and one-pagers, WordPress and WooCommerce stores |
+| **Online stores** | WooCommerce and custom e-commerce shops, product catalogue setup, payment and shipping integration, shop SEO |
 | **SEO** | Technical SEO, Core Web Vitals, content optimisation, local SEO |
 | **GEO** | Visibility in AI search (ChatGPT, Perplexity, Google AI Overviews): structured data, citable content, crawler access |
 | **Online marketing** | Google Ads and Meta Ads, conversion tracking with GA4, landing page optimisation |
