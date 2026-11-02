@@ -2,7 +2,7 @@
 
 # 3WAVES
 
-**Web design, SEO and web applications for small and medium-sized businesses.**
+**Web design, online stores, SEO and web applications for small and medium-sized businesses.**
 
 [3waves.de](https://3waves.de) · [3waves.pl](https://3waves.pl) · [kontakt@3waves.de](mailto:kontakt@3waves.de) · [kontakt@3waves.pl](mailto:kontakt@3waves.pl)
 
@@ -20,10 +20,10 @@ We work in **Polish, German and English** and support clients in Frankfurt am Ma
 
 | Service | What it includes |
 | --- | --- |
-| **Website development** | Individually coded company websites, landing pages and one-pagers, WordPress and WooCommerce stores |
+| **Website development** | Individually coded company websites, landing pages and one-pagers, WordPress sites |
 | **Online stores** | WooCommerce and custom e-commerce shops, product catalogue setup, payment and shipping integration, shop SEO |
 | **SEO** | Technical SEO, Core Web Vitals, content optimisation, local SEO |
-| **GEO** | Visibility in AI search (ChatGPT, Perplexity, Google AI Overviews): structured data, citable content, crawler access |
+| **GEO** | Generative Engine Optimisation: visibility in AI search (ChatGPT, Perplexity, Google AI Overviews) through structured data, citable content and crawler access |
 | **Online marketing** | Google Ads and Meta Ads, conversion tracking with GA4, landing page optimisation |
 | **Social media** | Strategy, content creation, paid campaigns |
 | **Web app development** | Custom business applications, configurators, Progressive Web Apps |
@@ -50,7 +50,7 @@ We work in **Polish, German and English** and support clients in Frankfurt am Ma
 
 ## Contact
 
-Interested in a new website, better rankings or a custom web application? Get in touch for a free consultation.
+Interested in a new website, an online store, better rankings or a custom web application? Get in touch for a free consultation.
 
-**Email:** [kontakt@3waves.de](mailto:kontakt@3waves.de)
-**Website:** [3waves.de](https://3waves.de) (DE) · [3waves.pl](https://3waves.pl) (PL)
+- **Email:** [kontakt@3waves.de](mailto:kontakt@3waves.de) (DE) · [kontakt@3waves.pl](mailto:kontakt@3waves.pl) (PL)
+- **Website:** [3waves.de](https://3waves.de) (DE) · [3waves.pl](https://3waves.pl) (PL)
